@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simplex2", "simplex2.csproj", "{6021354C-2D97-4822-88A3-CEF3C0BFF9EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplexTest2", "..\SimplexTest2\SimplexTest2.csproj", "{1BD1AAAD-588F-4B89-8239-AD8AF074F9C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6021354C-2D97-4822-88A3-CEF3C0BFF9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6021354C-2D97-4822-88A3-CEF3C0BFF9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6021354C-2D97-4822-88A3-CEF3C0BFF9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6021354C-2D97-4822-88A3-CEF3C0BFF9EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD1AAAD-588F-4B89-8239-AD8AF074F9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD1AAAD-588F-4B89-8239-AD8AF074F9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD1AAAD-588F-4B89-8239-AD8AF074F9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD1AAAD-588F-4B89-8239-AD8AF074F9C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC1B8A70-6C8D-4226-B973-47DDD416DDA8}
+	EndGlobalSection
+EndGlobal

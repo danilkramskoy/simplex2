@@ -1,0 +1,15 @@
+C:\Users\kramskoy\source\repos\simplex2\bin\Debug\net6.0\simplex2.exe
+C:\Users\kramskoy\source\repos\simplex2\bin\Debug\net6.0\simplex2.deps.json
+C:\Users\kramskoy\source\repos\simplex2\bin\Debug\net6.0\simplex2.runtimeconfig.json
+C:\Users\kramskoy\source\repos\simplex2\bin\Debug\net6.0\simplex2.dll
+C:\Users\kramskoy\source\repos\simplex2\bin\Debug\net6.0\simplex2.pdb
+C:\Users\kramskoy\source\repos\simplex2\obj\Debug\net6.0\simplex2.csproj.AssemblyReference.cache
+C:\Users\kramskoy\source\repos\simplex2\obj\Debug\net6.0\simplex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kramskoy\source\repos\simplex2\obj\Debug\net6.0\simplex2.AssemblyInfoInputs.cache
+C:\Users\kramskoy\source\repos\simplex2\obj\Debug\net6.0\simplex2.AssemblyInfo.cs
+C:\Users\kramskoy\source\repos\simplex2\obj\Debug\net6.0\simplex2.csproj.CoreCompileInputs.cache
+C:\Users\kramskoy\source\repos\simplex2\obj\Debug\net6.0\simplex2.dll
+C:\Users\kramskoy\source\repos\simplex2\obj\Debug\net6.0\refint\simplex2.dll
+C:\Users\kramskoy\source\repos\simplex2\obj\Debug\net6.0\simplex2.pdb
+C:\Users\kramskoy\source\repos\simplex2\obj\Debug\net6.0\simplex2.genruntimeconfig.cache
+C:\Users\kramskoy\source\repos\simplex2\obj\Debug\net6.0\ref\simplex2.dll
